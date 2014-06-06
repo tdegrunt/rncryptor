@@ -1,4 +1,2 @@
-rncryptor
-=========
+# Go RNCryptor
 
-Go RNCryptor
